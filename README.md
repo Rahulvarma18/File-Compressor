@@ -4,7 +4,7 @@
 A web-based file compression tool that uses **Huffman coding** to compress `.txt` files. Built with **Node.js**, **Express**, and a beautiful **responsive frontend**.
 
 <div align="center">
-  <img src="screenshots/ui1.png" width="600"/>
+  <img src="ui1.png" width="600"/>
   <br/><br/>
 </div>
 
