@@ -27,7 +27,7 @@ A web-based file compression tool that uses **Huffman coding** to compress `.txt
 
 <table>
   <tr>
-    <td><img src="screenshots/ui1.png" width="400"/></td>
+    <td><img src="ui1.png" width="400"/></td>
   </tr>
 </table>
 
